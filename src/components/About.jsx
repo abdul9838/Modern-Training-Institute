@@ -3,7 +3,7 @@ import Link from "next/link";
 import { ArrowRight, CheckCircle2, GraduationCap } from "lucide-react";
 import VisionMission from "./VisionMission";
 
-export default function About() {
+function About() {
   return (
     <section className="min-h-screen py-10">
       <div className="mx-auto flex h-full max-w-7xl flex-col justify-center px-4 sm:px-6 lg:px-8">
@@ -106,3 +106,4 @@ export default function About() {
     </section>
   );
 }
+export default About;
