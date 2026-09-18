@@ -98,10 +98,10 @@ const icons = {
 export default function Footer() {
   const quickLinks = [
     { name: "Home", href: "/" },
-    { name: "About", href: "/about" },
-    { name: "Career", href: "/career" },
+    { name: "About", href: "#" },
+    { name: "Career", href: "#" },
     { name: "Courses", href: "#" },
-    { name: "Gallery", href: "/gallery" },
+    { name: "Gallery", href: "#" },
     { name: "Contact Us", href: "#" },
   ];
 
