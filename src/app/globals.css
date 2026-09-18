@@ -7,9 +7,10 @@
   --color-brand-lightBlue: #E8F0F8;
   --color-brand-lightGray: #F8F9FA;
 
+  
   /* Font Family */
-  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
-}
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif; 
+  }
 
 @layer base {
   body {
